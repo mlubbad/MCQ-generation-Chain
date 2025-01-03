@@ -63,69 +63,133 @@ python main.py
 ```
 > Entering new AgentExecutor chain...
 
-Invoking: `Search` with `中小学简易方程的典型应用题`
+# Typical Application Problems of Simple Equations in Primary and Secondary Schools
 
+This document summarizes common types and examples of typical application problems in primary and secondary school mathematics. These problems often involve real-life practical issues and are solved using the steps of defining unknowns, setting up equations, solving them, and obtaining answers.
 
-['同学们在列方程解应用题时，一般只写出四项内容，即设未知数、列方程、解方程、答语。设未知数时要在Χ后面写上单位名称，在方程中已知数和未知数都不 ...', '题目
-中有特殊的数量关系，可以用特定的步骤和方法来解答的应用题，叫做典型应用题. 以下主要研究30类典型应用题：. 1、归一问题 2、归总问题 3、和差 ...', '小学数学中 把含有数量关系的实际问题用语言或文字叙述出来，这样所形成的题目叫做应用题。任何一道应用题都由两部分构成。第一部分是已知条件（简称条件） ...', '小学数学30种典型应用题讲解 · 1、审题，明白题目是什么意思，根据条件找数量关系 · 2、列式解答，可以用方程，也可以用算术 · 3、最后做答.', '《小学数学应用题解题方法手册》 是一本小学数学应用题解题宝典，主要包括：应用题的分类，应用题的解题步骤，应用题的基本解法，开放型应用题的解法和典型应用题的解。', 'a 审题理解题意：了解应用题的内容，知道应用题的条件和问题。读题时，不丢字不添字边读边思考，弄明白题中每句话的意思。也可以复述条件和问题，帮助理解 ...', '应用题的解题策略，在小学数学教学中是一个重点，同样也是一个难点。它全面考查了学生的基础知识，也考查了学生综合与分析能力。接下来我为你整理了小学数学解方程应用题 ...', '小学数学应用题大全小学数学中把含有数量关系的实际问题用语言或文字叙述出来，这样所形成的题目叫做应用题。任何一道应用题都由两部分构成。', '《小学数学应用题解题方法手册》是一本小学数学应用题解题宝典，主要包括：应用题的分类，应用题的解题步骤，应用题的基本解法，开放型应用题的解法和典型应用题的解。', '小学五年级数学应用题大汇总(共94道题)，让孩子查漏补缺！ （电子版）小学五年级数学上册典型奥数题，有答案及解析！ 【暑假预习】小学五年级上册数学 ...']中小学简易方程的典型应用题主要涉及生活中的实际问题，通过设立未知数、列方程、解方程、得出答案的步骤来解决。以下是一些典型的应用题类型和例题：
+---
 
-### 典型题型
+## Common Problem Types
 
-1. **归一问题**：涉及将不同的事物或数量转化为同一单位或标准进行比较或计算的问题。
-2. **归总问题**：涉及将多个部分的数量合并为一个总量的问题。
-3. **和差问题**：涉及两个或多个数量的和或差的问题。
-4. **比例问题**：涉及两个或多个数量之间比例关系的问题。
-5. **工程问题**：涉及工作效率、工作时间与工作量之间关系的问题。
+1. **Unification Problems**:  
+   Involve converting different items or quantities into a common unit or standard for comparison or calculation.
 
-### 例题
+2. **Aggregation Problems**:  
+   Involve combining quantities from multiple parts into a total amount.
 
-1. **归一问题例题**：小明和小红有苹果30个，小明的苹果是小红的2倍，问小明和小红各有多少个苹果？
-   - 设小红有x个苹果，则小明有2x个苹果，方程为：x + 2x = 30。
+3. **Sum and Difference Problems**:  
+   Involve the sum or difference of two or more quantities.
 
-2. **归总问题例题**：一个班级有男生20人，女生比男生多10人，问这个班级共有多少人？
-   - 设男生人数为x，则女生人数为x+10，方程为：x + (x+10) = 30。
+4. **Ratio Problems**:  
+   Involve relationships of proportions between two or more quantities.
 
-3. **和差问题例题**：两个数的和为50，差为10，求这两个数。
-   - 设这两个数分别为x和y，方程组为：x + y = 50，x - y = 10。
+5. **Work Problems**:  
+   Involve relationships between work efficiency, time, and workload.
 
-4. **比例问题例题**：一条绳子长120cm，被剪成两段，其中一段是另
+---
 
-> Finished chain.
-例题搜索结果:
+## Examples
 
-{'user_input': '请帮我找几道中小学简易方程的典型应用题，并总结一下常见题型', 'output': '中小学简易方程的典型应用题主要涉及生活中的实际问题，通过设立未知数、列方程、解方程、得出答案的步骤来解决。以下是一些典型的应用题类型和例题：\n\n### 典型题型\n\n1. **归一问题**：涉及将不同的事物或数量转化为同一单位或标准 进行比较或计算的问题。\n2. **归总问题**：涉及将多个部分的数量合并为一个总量的问题。\n3. **和差问题**：涉及两个或多个数量的和或差的问题。\n4. **比例问题** ：涉及两个或多个数量之间比例关系的问题。\n5. **工程问题**：涉及工作效率、工作时间与工作量之间关系的问题。\n\n### 例题\n\n1. **归一问题例题**：小明和小红有苹果30个，小明的苹果是小红的2倍，问小明和小红各有多少个苹果？\n   - 设小红有x个苹果，则小明有2x个苹果，方程为：x + 2x = 30。\n\n2. **归总问题例题**：一个 班级有男生20人，女生比男生多10人，问这个班级共有多少人？\n   - 设男生人数为x，则女生人数为x+10，方程为：x + (x+10) = 30。\n\n3. **和差问题例题**：两个数的和为50，差为10，求这两个数。\n   - 设这两个数分别为x和y，方程组为：x + y = 50，x - y = 10。\n\n4. **比例问题例题**：一条绳子长120cm，被剪成两段，其中一段 是另'}
+### 1. **Unification Problem Example**  
+   Xiaoming and Xiaohong have 30 apples. Xiaoming has twice as many apples as Xiaohong. How many apples do each have?  
 
+   - Let Xiaohong have \(x\) apples. Then Xiaoming has \(2x\) apples.  
+   - Equation:  
+     \[
+     x + 2x = 30
+     \]  
+   - Solution:  
+     \[
+     x = 10 \quad \text{(Xiaohong)}, \quad 2x = 20 \quad \text{(Xiaoming)}
+     \]
 
-> Entering new AgentExecutor chain...
-在夏天，小明和小华计划一起去游泳池游泳。游泳池的门票对于成人是每人30元，对于12岁以下的儿童是每人半价。如果小明和小华一共花了45元买了两张门票，并且我们知道小华是12岁以下的儿童，那么小明是成人还是12岁以下的儿童？
+---
 
-> Finished chain.
-生成的题目:
- {'user_input': '我需要你为我编写1道关于 简易方程知识的问题, \n                        参考现有的题目中小学简易方程的典型应用题主要涉及生活中的实际问题， 通过设立未知数、列方程、解方程、得出答案的步骤来解决。以下是一些典型的应用题类型和例题：\n\n### 典型题型\n\n1. **归一问题**：涉及将不同的事物或数量转化为 同一单位或标准进行比较或计算的问题。\n2. **归总问题**：涉及将多个部分的数量合并为一个总量的问题。\n3. **和差问题**：涉及两个或多个数量的和或差的问题。\n4. **比例问题**：涉及两个或多个数量之间比例关系的问题。\n5. **工程问题**：涉及工作效率、工作时间与工作量之间关系的问题。\n\n### 例题\n\n1. **归一问题例题** ：小明和小红有苹果30个，小明的苹果是小红的2倍，问小明和小红各有多少个苹果？\n   - 设小红有x个苹果，则小明有2x个苹果，方程为：x + 2x = 30。\n\n2. **归总问 题例题**：一个班级有男生20人，女生比男生多10人，问这个班级共有多少人？\n   - 设男生人数为x，则女生人数为x+10，方程为：x + (x+10) = 30。\n\n3. **和差问题例题**：两个数的和为50，差为10，求这两个数。\n   - 设这两个数分别为x和y，方程组为：x + y = 50，x - y = 10。\n\n4. **比例问题例题**：一条绳子长120cm，被剪成 两段，其中一段是另，你可以利用搜索引擎检查问题是否符合生活实际\n                        难度为 初级，你需要为题目编一个适用于教育的情境，创设的题目需要以 生活中真实发生的问题为背景，使用在生活中会真实出现的数字，问题是要解决生活中实际出现的问题，只需要给出问题即可,以问句结尾', 'output': '在夏天，小明和小华 计划一起去游泳池游泳。游泳池的门票对于成人是每人30元，对于12岁以下的儿童是每人半价。如果小明和小华一共花了45元买了两张门票，并且我们知道小华是12岁以下的儿童，那么小明是成人还是12岁以下的儿童？'}
+### 2. **Aggregation Problem Example**  
+   A class has 20 boys. The number of girls is 10 more than the boys. How many students are in the class?  
 
+   - Let the number of boys be \(x\). Then the number of girls is \(x+10\).  
+   - Equation:  
+     \[
+     x + (x + 10) = 30
+     \]  
+   - Solution:  
+     \[
+     x = 10 \quad \text{(boys)}, \quad x+10 = 20 \quad \text{(girls)}, \quad \text{Total = 30}
+     \]
 
-> Entering new AgentExecutor chain...
+---
 
-Invoking: `Calculator` with `30 / 2`
+### 3. **Sum and Difference Problem Example**  
+   Two numbers have a sum of 50 and a difference of 10. Find these two numbers.  
 
+   - Let the two numbers be \(x\) and \(y\).  
+   - System of equations:  
+     \[
+     x + y = 50  
+     \]  
+     \[
+     x - y = 10
+     \]  
+   - Solution:  
+     \[
+     x = 30, \quad y = 20
+     \]
 
-Answer: 15.0
-Invoking: `Calculator` with `45 - (30 / 2)`
+---
 
+### 4. **Ratio Problem Example**  
+   A rope is 120 cm long and is cut into two pieces, one of which is three times as long as the other. Find the lengths of the two pieces.  
 
-Answer: 30.0解题过程如下：
+   - Let the shorter piece be \(x\). Then the longer piece is \(3x\).  
+   - Equation:  
+     \[
+     x + 3x = 120
+     \]  
+   - Solution:  
+     \[
+     x = 30 \quad \text{(shorter)}, \quad 3x = 90 \quad \text{(longer)}
+     \]
 
-1. 首先，我们知道12岁以下的儿童门票是成人门票的半价。成人门票价格为30元，所以儿童门票价格为\(30 / 2 = 15\)元。
+---
 
-2. 小明和小华一共花了45元买了两张门票，其中小华是12岁以下的儿童，所以他的门票价格为15元。因此，剩下的钱是\(45 - 15 = 30\)元。
+### 5. **Work Problem Example**  
+   A and B together can complete a task in 4 hours. A alone can complete the task in 6 hours. How long would B alone take to complete the task?  
 
-由于剩下的30元正好是成人门票的价格，这意味着小明买的是成人票。
+   - A’s work rate: \( \frac{1}{6} \) (tasks per hour).  
+   - A and B’s combined work rate: \( \frac{1}{4} \) (tasks per hour).  
+   - B’s work rate:  
+     \[
+     \frac{1}{4} - \frac{1}{6} = \frac{1}{12}
+     \]  
+   - Solution:  
+     B alone would take 12 hours to complete the task.
 
-答案：小明是成人。
+---
 
-> Finished chain.
-[{'content': '在夏天，小明和小华计划一起去游泳池游泳。游泳池的门票对于成人是每人30元，对于12岁以下的儿童是每人半价。如果小明和小华一共花了45元买了两张门票，并且我们知道小华是12岁以下的儿童，那么小明是成人还是12岁以下的儿童？', 'description': {'user_input': "在夏天，小明和小华计划一起去游泳池游泳。游泳池的门票对于成人是每人30元，对于12岁以下的儿童是每人半价。如果小明和小华一共花了45元买了两张门票，并且我们知道小华是12岁以下的儿童，那么小明是成人还是12岁以下的儿童？返回解题过程和答案，计算时只能提供单行的python数学表达式，这样的表达式无法被计算'470 // 60, 470 % 60'，如果有多个要计算的表达式请你逐步计算，不能出 现未定义的变量", 'output': '解题过程如下：\n\n1. 首先，我们知道12岁以下的儿童门票是成人门票的半价。成人门票价格为30元，所以儿童门票价格为\\(30 / 2 = 15\\)元。\n\n2. 小明和小华一共花了45元买了两张门票，其中小华是12岁以下的儿童，所以他的门票价格为15元。因此，剩下的钱是\\(45 - 15 = 30\\)元。\n\n由于剩下的30元 正好是成人门票的价格，这意味着小明买的是成人票。\n\n答案：小明是成人。'}}]
-############################最终生成题目结果##################################
-[{'content': '在夏天，小明和小华计划一起去游泳池游泳。游泳池的门票对于成人是每人30元，对于12岁以下的儿童是每人半价。如果小明和小华一共花了45元买了两张门票，并且我们知道小华是12岁以下的儿童，那么小明是成人还是12岁以下的儿童？', 'options': {'A': '小明是成人', 'B': '小明是12岁以下的儿童', 'C': '小明和小华都是12岁以下的儿童', 'D': '小明和小华都是成人'}, 'description': '解题过程如下：\n\n1. 首先，我们知道12岁以下的儿童门票是成人门票的半价。成人门票价格为30元，所 以儿童门票价格为15元。\n\n2. 小明和小华一共花了45元买了两张门票，其中小华是12岁以下的儿童，所以他的门票价格为15元。因此，剩下的钱是45 - 15 = 30元。\n\n由 于剩下的30元正好是成人门票的价格，这意味着小明买的是成人票。', 'correct_answer': 'A'}]
+## How to Use This Repository
+
+1. **Understand the Problem Type**:  
+   Identify the type of application problem by analyzing its structure.
+
+2. **Set Up the Equation**:  
+   Define the unknown(s), set up the equation(s), and include the necessary conditions.
+
+3. **Solve the Problem**:  
+   Solve the equation(s) step-by-step.
+
+4. **Validate Your Answer**:  
+   Verify your solution by substituting it back into the original problem conditions.
+
+---
+
+### Contributions
+
+If you have additional examples or suggestions for improving this content, feel free to submit a pull request or open an issue.
+
+### License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 ```
 
