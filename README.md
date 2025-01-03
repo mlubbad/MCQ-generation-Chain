@@ -44,7 +44,7 @@ open `main.py` and edit line `7-11`
 ```python
 # Question settings
 cnt = 1 # question quantity
-knowledge = 'simple equations' # knowledge point
+knowledge = 'simple equations' # knowledge component
 difficulty_level = 0 # difficulty level: 0 easy, 1 middle, 2 hard
 isScene = True # Whether or not to set the context
 otherRestriction = "" 
